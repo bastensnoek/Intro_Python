@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 | 7   | Mo 07/05 | 13:15 - 17:00 | HVDB - 2.70/2.71  | File handeling 2             |
 | 8   | Tu 08/05 | xx:xx - xx:xx | AZU - CLZ-1/2 MBU | **Exam**                     |
 
-
+Lunch breaks are between 12:30 and 13:15.
 
 
 
