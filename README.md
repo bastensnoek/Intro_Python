@@ -33,30 +33,37 @@ Lunch breaks are between 12:30 and 13:15.
 Intro: **Comming soon**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 2**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 3**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 4**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 5**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 6**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 7**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
+Answers: **Comming soon**
 
 **Day 8**\
 Exam: **Comming soon**\
