@@ -10,11 +10,11 @@ Jupyter notebooks is a user interface which makes writing and commenting on Pyth
 It can be installed together with Python via the Anaconda platform:\
 https://www.anaconda.com/download/
 
-#### Installation guide
+**Installation guide**
 A manual "how to install Python and Jupyter via Anaconda" can be found here:\
 https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=sharing
 
-#### Schedule
+### Schedule
 
 | Day | Date     | Time          | Place             | Topic                        |
 |-----|----------|---------------|-------------------|------------------------------|
@@ -28,6 +28,9 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 | 8   | Tu 08/05 | xx:xx - xx:xx | AZU - CLZ-1/2 MBU | **Exam**                     |
 
 Lunch breaks are between 12:30 and 13:15.
+
+
+### Practicals and presentations ###
 
 **Day 1**\
 Intro: **Comming soon**\
