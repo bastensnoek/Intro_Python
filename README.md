@@ -28,6 +28,41 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 
 Lunch breaks are between 12:30 and 13:15.
 
+**Day 1**
+Intro: **Comming soon**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 2**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 3**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 4**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 5**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 6**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 7**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+**Day 8**
+PDF: **Comming soon**
+Jupyter notebook: **Comming soon**
+
+
+
 
 
 ### END
