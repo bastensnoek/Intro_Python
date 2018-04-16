@@ -2,7 +2,10 @@
 
 # Welcome to the introduction to Python
 
-Here you can find info and links needed for the Python part of "BMW Bioinformatica & Genoomanalyse"
+Here you can find info and links needed for the Python part of "BMW Bioinformatica & Genoomanalyse".\
+**This is a Pythin 2.7 course**
+
+**Computers will be available during the course**, however you can also try a local install.
 
 ## Installing Jupyter locally
 
