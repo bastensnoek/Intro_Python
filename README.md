@@ -6,11 +6,12 @@ Here you can find info and links needed for the Python part of "BMW Bioinformati
 
 ## Installing Jupyter locally
 
-Jupyter notebooks is a user interface which makes writing and commenting on Python code more convenient.
-It can be installed together with Python via the Anaconda platform: https://www.anaconda.com/download/
+Jupyter notebooks is a user interface which makes writing and commenting on Python code more convenient.\
+It can be installed together with Python via the Anaconda platform:\
+https://www.anaconda.com/download/
 
 #### Installation guide
-A manual "how to install Python and Jupyter via Anaconda" can be found here:
+A manual "how to install Python and Jupyter via Anaconda" can be found here:\
 https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=sharing
 
 #### Schedule
@@ -28,38 +29,37 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 
 Lunch breaks are between 12:30 and 13:15.
 
-**Day 1**
+**Day 1**\
 Intro: **Comming soon**\
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 2**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 2**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 3**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 3**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 4**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 4**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 5**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 5**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 6**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 6**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 7**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 7**\
+PDF: **Comming soon**\
+Jupyter notebook: **Comming soon**\
 
-**Day 8**
-PDF: **Comming soon**
-Jupyter notebook: **Comming soon**
+**Day 8**\
+Exam: **Comming soon**\
 
 
 
