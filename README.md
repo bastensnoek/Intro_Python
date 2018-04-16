@@ -38,43 +38,43 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 
 ## Practicals and presentations ###
 
-**Day 1** Jupyter and Variables\
+**Day 1:** Jupyter and Variables\
 Intro: **Comming soon**\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 2** Variables and Loops\
+**Day 2:** Variables and Loops\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 3** Lists\
+**Day 3:** Lists\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 4** Dictionaries\
+**Day 4:** Dictionaries\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 5** Functions, Modules, Plotting\
+**Day 5:** Functions, Modules, Plotting\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 6** Regex and File handeling 1\
+**Day 6:** Regex and File handeling 1\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 7** File handeling 2\
+**Day 7:** File handeling 2\
 PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 8 Exam**\
+**Day 8: Exam**\
 Exam: **Comming soon**\
 
 
