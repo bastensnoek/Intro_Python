@@ -8,6 +8,5 @@ Here you can find info and links needed for the Python part of "BMW Bioinformati
 
 Jupyter notebooks is a user interface which makes writing and commenting on Python code more convenient 
 It can be installed together with Python via the Anaconda platform
-
-<a href=https://www.anaconda.com/download/
+<a> href=https://www.anaconda.com/download/
 
