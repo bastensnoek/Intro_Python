@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 
 **Day 1:** Jupyter and Variables\
 Intro: **Comming soon**\
-PDF: **Comming soon**\
+PDF: https://drive.google.com/open?id=1NC9hbhSZXlNe58X90cDLLHHCF5vnJTgC \
 Jupyter notebook: https://drive.google.com/open?id=12-3gI-ZE_wKsCK-JbR89BltPNpdonjBW \
 Answers: **Comming soon**
 
