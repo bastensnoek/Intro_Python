@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 **Day 1:** Jupyter and Variables\
 Intro: **Comming soon**\
 PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+Jupyter notebook: https://drive.google.com/open?id=12-3gI-ZE_wKsCK-JbR89BltPNpdonjBW \
 Answers: **Comming soon**
 
 **Day 2:** Variables and Loops\
