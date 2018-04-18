@@ -3,9 +3,9 @@
 # Welcome to the introduction to Python
 
 Here you can find info and links needed for the Python part of "BMW Bioinformatica & Genoomanalyse".\
-**This is a Pythin 2.7 course**
+**This is a Python 2.7 course**
 
-**Computers will be available during the course**, however you can also try to install it on your own laptop.
+**Computers will be available during the course**, however we encournage to install Python and Jupyter on your own laptop.
 
 **Installing Jupyter locally**\
 Jupyter notebooks is a user interface which makes writing and commenting on Python code more convenient.\
