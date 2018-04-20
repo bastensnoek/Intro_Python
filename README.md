@@ -75,8 +75,8 @@ PDF: **Comming soon**\
 Jupyter notebook: **Comming soon**\
 Answers: **Comming soon**
 
-**Day 8: Exam**\
-Exam: **Comming soon**\
+**Day 8: Quiz and Questions
+...
 
 
 
