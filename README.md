@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 ## Practicals and presentations ###
 
 **Day 1:** Jupyter and Variables\
-Intro: **Comming soon**\
+Intro: https://drive.google.com/open?id=1ofj5zUm-_kiL2pANE8ouOsYEur7Z9sKJ \
 PDF: https://drive.google.com/open?id=1NC9hbhSZXlNe58X90cDLLHHCF5vnJTgC \
 Jupyter notebook: https://drive.google.com/open?id=12-3gI-ZE_wKsCK-JbR89BltPNpdonjBW \
 Answers: **Comming soon**
