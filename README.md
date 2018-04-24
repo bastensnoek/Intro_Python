@@ -51,8 +51,8 @@ Jupyter notebook: **See Day 1**\
 Answers: **See day 1**
 
 **Day 3:** Lists\
-PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+PDF: https://drive.google.com/open?id=104jTzA8ecUDkGzkQEzmz_bLe1_1OnYzn \
+Jupyter notebook: https://drive.google.com/open?id=1HgAYGzlzwq7uv2l8cxo52WXstL-IqX9p \
 Answers: **Comming soon**
 
 **Day 4:** Dictionaries\
