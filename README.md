@@ -46,9 +46,9 @@ Jupyter notebook: https://drive.google.com/open?id=12-3gI-ZE_wKsCK-JbR89BltPNpdo
 Answers: **Comming soon**
 
 **Day 2:** Variables and Loops\
-PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
-Answers: **Comming soon**
+PDF: **See Day 1**\
+Jupyter notebook: **See Day 1**\
+Answers: **See day 1**
 
 **Day 3:** Lists\
 PDF: **Comming soon**\
