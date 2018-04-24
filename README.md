@@ -57,22 +57,26 @@ Answers: **Comming soon**
 
 **Day 4:** Dictionaries\
 PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+Jupyter notebook: https://drive.google.com/open?id=1W26lB64AM_DSJEXYcD5Ggq5MW4jJUQp8 \
 Answers: **Comming soon**
 
 **Day 5:** Functions, Modules, Plotting\
 PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1pkHB0rMMD1hBWaHaOa-iQnDFkQm_8Hpj \
+Jupyter notebook Plotting: https://drive.google.com/open?id=10a2MPXb5Bh9PeoDpIpyB1gNZjZlJZk9- \
 Answers: **Comming soon**
 
 **Day 6:** Regex and File handeling 1\
 PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+Jupyter notebook Regex: https://drive.google.com/open?id=1z0ccEkryi5tnBRyiTGGIBUqpKmcn0DYZ \
+Jupyter notebook File: https://drive.google.com/open?id=1tAK0i0hjV19uEYlQsaXvTlVg5SBSZlUz \
+File needed: https://drive.google.com/open?id=14NJxrYrJhAhgmoQAx-RNP7mIee5CUnBb \
 Answers: **Comming soon**
 
 **Day 7:** File handeling 2\
 PDF: **Comming soon**\
-Jupyter notebook: **Comming soon**\
+Jupyter notebook: https://drive.google.com/open?id=1mqWVG5ZiqypmuxRzIuIFhzOZYZGIeesZ \
+File needed: https://drive.google.com/open?id=1NXBkOfZza_C446Ka8f8n4HblOjbqVePd \
 Answers: **Comming soon**
 
 **Day 8:** Quiz and Questions\
