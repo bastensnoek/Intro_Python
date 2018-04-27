@@ -53,7 +53,7 @@ Answers: **See day 1**
 **Day 3:** Lists\
 PDF: https://drive.google.com/open?id=104jTzA8ecUDkGzkQEzmz_bLe1_1OnYzn \
 Jupyter notebook: https://drive.google.com/open?id=1HgAYGzlzwq7uv2l8cxo52WXstL-IqX9p \
-Answers: **Comming soon**
+Answers: https://drive.google.com/open?id=1jjZG6lkr99iR-RRCAtJiyfjc85vCkIeH
 
 **Day 4:** Dictionaries\
 PDF: https://drive.google.com/open?id=1VSBeCkZJSTRB2cgZ_MjcbgkJLEvrvPj- \
