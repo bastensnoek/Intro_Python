@@ -58,7 +58,7 @@ Answers: https://drive.google.com/open?id=1jjZG6lkr99iR-RRCAtJiyfjc85vCkIeH
 **Day 4:** Dictionaries\
 PDF: https://drive.google.com/open?id=1VSBeCkZJSTRB2cgZ_MjcbgkJLEvrvPj- \
 Jupyter notebook: https://drive.google.com/open?id=1W26lB64AM_DSJEXYcD5Ggq5MW4jJUQp8 \
-Answers: **Comming soon**
+Answers: https://drive.google.com/open?id=1KtkydxMYtdzhH8bPalGbVxGljW4NU6BM
 
 **Day 5:** Functions, Modules, Plotting\
 PDF Functions and modules: https://drive.google.com/open?id=1uKX7MbOiVmtMEYrPEN0Af3FC977bGJYL \
