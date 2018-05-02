@@ -65,7 +65,8 @@ PDF Functions and modules: https://drive.google.com/open?id=1uKX7MbOiVmtMEYrPEN0
 PDF Plotting: https://drive.google.com/open?id=1NJkoCFNYj4mPlJ1eS7a7xN8ziqhqfqPW \
 Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1pkHB0rMMD1hBWaHaOa-iQnDFkQm_8Hpj \
 Jupyter notebook Plotting: https://drive.google.com/open?id=10a2MPXb5Bh9PeoDpIpyB1gNZjZlJZk9- \
-Answers: **Comming soon**
+Answers Functions: https://drive.google.com/open?id=1UF1h0IevygeH2U03RnsAzRw3v8W4VOl- \
+Answers Plotting: https://drive.google.com/open?id=1b8XWM8ILMpNHJzszTRzNbMquq4c5c-um
 
 **Day 6:** Regex and File handeling 1\
 PDF Regex: https://drive.google.com/open?id=1m1OHbOYnSvqDC8aX9Y5YWmi2lLqxKRpB \
