@@ -66,7 +66,8 @@ PDF Plotting: https://drive.google.com/open?id=1NJkoCFNYj4mPlJ1eS7a7xN8ziqhqfqPW
 Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1pkHB0rMMD1hBWaHaOa-iQnDFkQm_8Hpj \
 Jupyter notebook Plotting: https://drive.google.com/open?id=10a2MPXb5Bh9PeoDpIpyB1gNZjZlJZk9- \
 Answers Functions: https://drive.google.com/open?id=1UF1h0IevygeH2U03RnsAzRw3v8W4VOl- \
-Answers Plotting: https://drive.google.com/open?id=1b8XWM8ILMpNHJzszTRzNbMquq4c5c-um
+Answers Plotting: https://drive.google.com/open?id=1b8XWM8ILMpNHJzszTRzNbMquq4c5c-um \
+  **Extra Notebook** List and Dictionary Navigation: https://drive.google.com/open?id=1QJ8J2PvmaKMH8A7dc4YFTr6zEoh5mRtT 
 
 **Day 6:** Regex and File handeling 1\
 PDF Regex: https://drive.google.com/open?id=1m1OHbOYnSvqDC8aX9Y5YWmi2lLqxKRpB \
@@ -74,7 +75,10 @@ PDF File handeling: https://drive.google.com/open?id=13kSNYWl4C88kqzdsXxRgMqif4-
 Jupyter notebook Regex: https://drive.google.com/open?id=1z0ccEkryi5tnBRyiTGGIBUqpKmcn0DYZ \
 Jupyter notebook File handeling: https://drive.google.com/open?id=1tAK0i0hjV19uEYlQsaXvTlVg5SBSZlUz \
 File needed: https://drive.google.com/open?id=14NJxrYrJhAhgmoQAx-RNP7mIee5CUnBb \
-Answers: **Comming soon**
+Answers REGEX: https://drive.google.com/open?id=13r29kgBH3MZKv-1M2kN2Nq6uEokPXxof
+Answers File handeling: https://drive.google.com/open?id=1OLQrVrDYmUwbpWKBwRi1R_-qamAlctHT \
+  **Extra Notebook** Moving Snails: https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
+  Snail file: https://drive.google.com/open?id=1uM-YlId3Z4-t1okcrB7q0UPNAnCCCzdi
 
 **Day 7:** File handeling 2\
 PDF: https://drive.google.com/open?id=1xGBzF5n4PKFIbxVYj3f6Ksd1mPNwpQIu \
@@ -86,6 +90,7 @@ Answers: **Comming soon**
 ...
 
 
+**Extra information and references:** https://en.wikibooks.org/wiki/Python_Programming (some references can be Python 3!)
 
 
 
