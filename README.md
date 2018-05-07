@@ -84,7 +84,7 @@ Answers File handeling: https://drive.google.com/open?id=1OLQrVrDYmUwbpWKBwRi1R_
 PDF: https://drive.google.com/open?id=1xGBzF5n4PKFIbxVYj3f6Ksd1mPNwpQIu \
 Jupyter notebook: https://drive.google.com/open?id=1mqWVG5ZiqypmuxRzIuIFhzOZYZGIeesZ \
 File needed: https://drive.google.com/open?id=1NXBkOfZza_C446Ka8f8n4HblOjbqVePd \
-Answers: **Comming soon** \
+Answers: https://drive.google.com/open?id=10-ZlvpCchUR3Jii8x1wOa2kE72Xkgnc- \
 PDF Genome Biology: https://genomebiology.biomedcentral.com/track/pdf/10.1186/gb-2013-14-6-124
 
 **Day 8:** Quiz and Questions\
