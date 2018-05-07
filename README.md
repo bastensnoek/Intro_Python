@@ -91,7 +91,10 @@ PDF Genome Biology: https://genomebiology.biomedcentral.com/track/pdf/10.1186/gb
 ...
 
 
-**Extra information and references:** https://en.wikibooks.org/wiki/Python_Programming (some references can be Python 3!)
+**Extra information and references:** 
+https://en.wikibooks.org/wiki/Python_Programming (some references can be Python 3!)
+https://www.practicepython.org/ Extra practice
+https://www.listendata.com/ Python, R and more
 
 
 
