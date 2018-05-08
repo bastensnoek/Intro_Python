@@ -67,7 +67,7 @@ Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1pkHB0r
 Jupyter notebook Plotting: https://drive.google.com/open?id=10a2MPXb5Bh9PeoDpIpyB1gNZjZlJZk9- \
 Answers Functions: https://drive.google.com/open?id=1UF1h0IevygeH2U03RnsAzRw3v8W4VOl- \
 Answers Plotting: https://drive.google.com/open?id=1b8XWM8ILMpNHJzszTRzNbMquq4c5c-um \
-  **Extra Notebook** List and Dictionary Navigation: https://drive.google.com/open?id=1QJ8J2PvmaKMH8A7dc4YFTr6zEoh5mRtT \
+  **Extra Notebook** List and Dictionary Navigation: https://drive.google.com/open?id=1QJ8J2PvmaKMH8A7dc4YFTr6zEoh5mRtT 
   
   DNA_tools.py -->  https://drive.google.com/open?id=1XdSO5STTTZCaDVw2PDlE_tIGKNo1CjHE
 
