@@ -24,6 +24,10 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 **Cheatsheet Regex:** https://drive.google.com/open?id=1AGSWREOg_C54YpNqnMElSqS1DwvxAG5p \
 **Cheatsheet Matplotlib:** https://drive.google.com/open?id=1j1bWR9_BomlpJTbFes0CSFY3ut8pmMDx 
 
+**Python documentation:** https://docs.python.org/2.7/ \
+**Google:** https://www.google.com/ \
+**Stackoverflow:** https://stackoverflow.com/ 
+
 ## Schedule
 
 | Day | Date     | Time          | Place             | Topic                        |
