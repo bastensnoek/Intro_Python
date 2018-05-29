@@ -16,7 +16,13 @@ https://www.anaconda.com/download/
 A manual "how to install Python and Jupyter via Anaconda" can be found here:\
 https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=sharing
 
+# Exam files 
 
+**Exam notebook:** Comming soon \
+**Gene expression file:** Comming soon \
+**Cheatsheet Python:** https://drive.google.com/open?id=1vJIbRp08JQf9TSeJFn1WilxT6MNGGzVN \
+**Cheatsheet Regex:** https://drive.google.com/open?id=1AGSWREOg_C54YpNqnMElSqS1DwvxAG5p \
+**Cheatsheet Matplotlib:** https://drive.google.com/open?id=1j1bWR9_BomlpJTbFes0CSFY3ut8pmMDx 
 
 ## Schedule
 
