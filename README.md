@@ -18,8 +18,8 @@ https://drive.google.com/file/d/1cdsJqeST2-fMqjxiCL1ckv_aTPIdN8lN/view?usp=shari
 
 # Exam files 
 
-**Exam notebook:** Comming soon \
-**Gene expression file:** Comming soon \
+**Exam notebook:** https://drive.google.com/open?id=1cEiPvWP5pgbouE5iosD8V9mG7_lr-Qv3 \
+**Gene expression file:** https://drive.google.com/open?id=1-9XRFd7MogV4DCTjjNDyg-fVy271b9lP \
 **Cheatsheet Python:** https://drive.google.com/open?id=1vJIbRp08JQf9TSeJFn1WilxT6MNGGzVN \
 **Cheatsheet Regex:** https://drive.google.com/open?id=1AGSWREOg_C54YpNqnMElSqS1DwvxAG5p \
 **Cheatsheet Matplotlib:** https://drive.google.com/open?id=1j1bWR9_BomlpJTbFes0CSFY3ut8pmMDx 
