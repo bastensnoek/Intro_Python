@@ -73,11 +73,12 @@ Answers: Available after day 3
 
 **Day 4:** Regular expression and File handeling\
 PDF Regex: https://drive.google.com/open?id=125dO17tnaYN3SnRSCGtRPPrEcxG51JYL \
-PDF File handelin: https://drive.google.com/open?id=1n7Hxlgm1-A2vN8dJ71mHlHeXdTVI2vDs \
+PDF File handeling: https://drive.google.com/open?id=1n7Hxlgm1-A2vN8dJ71mHlHeXdTVI2vDs \
+Needed .bed File:  \ 
 Jupyter notebook:  \
 Answers: Available after day 4
 
-**Day 5:** Recap \
+**Day 5:** Recap 
 
 **Extra Notebook** List and Dictionary Navigation: https://drive.google.com/open?id=1QJ8J2PvmaKMH8A7dc4YFTr6zEoh5mRtT \
 **Extra Notebook** Moving Snails: https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
