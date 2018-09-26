@@ -80,11 +80,11 @@ Answers: Available after day 4
 
 **Day 5:** Recap 
 
-**Extra Notebook** List and Dictionary Navigation: https://drive.google.com/open?id=1QJ8J2PvmaKMH8A7dc4YFTr6zEoh5mRtT \
-**Extra Notebook** Moving Snails: https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
-      Snail file: https://drive.google.com/open?id=1uM-YlId3Z4-t1okcrB7q0UPNAnCCCzdi  
+**Extra Notebook** List and Dictionary Navigation: to come \
+**Extra Notebook** Moving Snails: to come \
+      Snail file: to come
 
-  DNA_tools.py -->  https://drive.google.com/open?id=1XdSO5STTTZCaDVw2PDlE_tIGKNo1CjHE
+  DNA_tools.py -->  to come
 
 
 **Extra information and references:** \
