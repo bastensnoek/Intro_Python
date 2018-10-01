@@ -57,7 +57,7 @@ https://drive.google.com/open?id=1-I2zcynSo4nfH3B8FUkSaFMaoPkCPK7i
 Intro: https://drive.google.com/open?id=1X2_RK40z3sVPWkMHygr3mTN3O527t_gv \
 PDF: https://drive.google.com/open?id=1iZVi7Zf_Gh6zQvusj6jS9d1CuqXZnRwt \
 Jupyter notebook: https://drive.google.com/open?id=1nMlyAU2LC84_rPvFD5JZPB6fXnIoVQYe \
-Answers: Available after day 1
+Answers: https://drive.google.com/open?id=1l4vusjMgcCKiZP0hBsqr2jyroc2CHnk9 \
 
 **Day 2:** Lists, Dictionaries \
 PDF Lists: https://drive.google.com/open?id=1rW1azZ5z7Vn36Ikajxy3l9XC8BQwR56V \
