@@ -62,7 +62,8 @@ Answers: Available after day 1
 **Day 2:** Lists, Dictionaries \
 PDF Lists: https://drive.google.com/open?id=1rW1azZ5z7Vn36Ikajxy3l9XC8BQwR56V \
 PDF Dictionaries: https://drive.google.com/open?id=1Hm2iqaiScqYdPOm6vkom1MhuMs3x4a_o \
-Jupyter notebook: \
+Jupyter notebook A: https://drive.google.com/open?id=13dmbKTuxXZ2eiVf2eSGfoHbADUSdEP47 \
+Jupyter notebook B: https://drive.google.com/open?id=1O3Exzmjxc9NsbAr0vC3ertNLnzcMcdDN \
 Answers: Available after day 2
 
 **Day 3:** Functions, Modules, Plotting\
