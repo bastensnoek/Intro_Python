@@ -66,7 +66,7 @@ Jupyter notebook A: https://drive.google.com/open?id=13dmbKTuxXZ2eiVf2eSGfoHbADU
 Jupyter notebook B: https://drive.google.com/open?id=1O3Exzmjxc9NsbAr0vC3ertNLnzcMcdDN \
 Recap day 1 & Doodles : https://drive.google.com/open?id=1F0GqAJhIjB0txFqhC0gLgkBuvyi5mEoB \
 Answers A : https://drive.google.com/open?id=1m2InkviaNQXy34eOcBtFzC59POEFcCL0 \
-Answers B : https://drive.google.com/open?id=1iFIPsvNaWuX-ToaM3ETUkKq0HirzP-yj \
+Answers B : https://drive.google.com/open?id=1iFIPsvNaWuX-ToaM3ETUkKq0HirzP-yj
 
 **Day 3:** Functions, Modules, Plotting\
 PDF Functions: https://drive.google.com/open?id=14Z1mtKHwkZanxdAsj9kB7gQ60YtLy4LZ \
