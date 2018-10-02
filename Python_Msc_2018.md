@@ -69,7 +69,8 @@ Answers: Available after day 2
 **Day 3:** Functions, Modules, Plotting\
 PDF Functions: https://drive.google.com/open?id=14Z1mtKHwkZanxdAsj9kB7gQ60YtLy4LZ \
 PDF Plotting: https://drive.google.com/open?id=1ZIxFbYOWx_D0tYjl1R9Cjgf5rDlqvxpr \
-Jupyter notebook:  \
+Jupyter notebook A: https://drive.google.com/open?id=1r5bMEx4daSMIB8whKiLa8wwmvvVoH-ve \
+Jupyter notebook B: https://drive.google.com/open?id=1kLVWQbAAWHX37_nHbBxahOgZ8LGiHjlN \
 Answers: Available after day 3
 
 **Day 4:** Regular expression and File handeling\
