@@ -74,13 +74,15 @@ PDF Plotting: https://drive.google.com/open?id=1ZIxFbYOWx_D0tYjl1R9Cjgf5rDlqvxpr
 Jupyter notebook A: https://drive.google.com/open?id=1r5bMEx4daSMIB8whKiLa8wwmvvVoH-ve \
 Jupyter notebook B: https://drive.google.com/open?id=1kLVWQbAAWHX37_nHbBxahOgZ8LGiHjlN \
 DNA tools: https://drive.google.com/open?id=1dZ-FSOetSMiFN6epKLL3KtZhvPLcpRIn \
-Answers: Available after day 3
+Answers A: https://drive.google.com/open?id=1dd1Xg7xZZp3tm3gaNYEQ4S9ZM52fnbAN \
+Answers B: https://drive.google.com/open?id=1Qsa_VzHloeZBrzfkCs8XhOJHDqVbe8Rw \
 
 **Day 4:** Regular expression and File handeling\
 PDF Regex: https://drive.google.com/open?id=125dO17tnaYN3SnRSCGtRPPrEcxG51JYL \
 PDF File handeling: https://drive.google.com/open?id=1n7Hxlgm1-A2vN8dJ71mHlHeXdTVI2vDs \
-Needed .bed File:  \ 
-Jupyter notebook:  \
+Needed .bed File: https://drive.google.com/open?id=1vA3foDboub8Oz1EBJb02iXaQXsJKLAss \
+Jupyter notebook Regex: https://drive.google.com/open?id=1g9_VbcOt33D3hGJjGs4d6hid-Z_UlLlx \
+Jupyter notebook Filehandeling: https://drive.google.com/open?id=1l4myNt8J6e5z1_9dtDukEo2K0hjmXJZc \
 Answers: Available after day 4
 
 **Day 5:** Recap 
