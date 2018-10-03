@@ -75,7 +75,9 @@ Jupyter notebook A: https://drive.google.com/open?id=1r5bMEx4daSMIB8whKiLa8wwmvv
 Jupyter notebook B: https://drive.google.com/open?id=1kLVWQbAAWHX37_nHbBxahOgZ8LGiHjlN \
 DNA tools: https://drive.google.com/open?id=1dZ-FSOetSMiFN6epKLL3KtZhvPLcpRIn \
 Answers A: https://drive.google.com/open?id=1dd1Xg7xZZp3tm3gaNYEQ4S9ZM52fnbAN \
+Alt Ansers A: https://drive.google.com/open?id=1-mcnPpg5GgKxmpz3ryg3e-UO4y8rA-J3 \
 Answers B: https://drive.google.com/open?id=1Qsa_VzHloeZBrzfkCs8XhOJHDqVbe8Rw \
+Alt Answers B: https://drive.google.com/open?id=1LPVFS87eJx5Pfv47jzpiNRcUABHNPNPd \
 
 **Day 4:** Regular expression and File handeling\
 PDF Regex: https://drive.google.com/open?id=125dO17tnaYN3SnRSCGtRPPrEcxG51JYL \
