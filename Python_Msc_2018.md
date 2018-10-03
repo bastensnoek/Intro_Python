@@ -73,6 +73,7 @@ PDF Functions: https://drive.google.com/open?id=14Z1mtKHwkZanxdAsj9kB7gQ60YtLy4L
 PDF Plotting: https://drive.google.com/open?id=1ZIxFbYOWx_D0tYjl1R9Cjgf5rDlqvxpr \
 Jupyter notebook A: https://drive.google.com/open?id=1r5bMEx4daSMIB8whKiLa8wwmvvVoH-ve \
 Jupyter notebook B: https://drive.google.com/open?id=1kLVWQbAAWHX37_nHbBxahOgZ8LGiHjlN \
+DNA tools: https://drive.google.com/open?id=1dZ-FSOetSMiFN6epKLL3KtZhvPLcpRIn \
 Answers: Available after day 3
 
 **Day 4:** Regular expression and File handeling\
