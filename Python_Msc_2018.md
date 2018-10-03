@@ -89,9 +89,9 @@ Answers: Available after day 4
 
 **Day 5:** Recap 
 
-**Extra Notebook** List and Dictionary Navigation: to come \
-**Extra Notebook** Moving Snails: to come \
-      Snail file: to come
+**Extra Notebook** List and Dictionary Navigation and Moving Snails (day6): \
+https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
+      Snail file: https://drive.google.com/open?id=1uM-YlId3Z4-t1okcrB7q0UPNAnCCCzdi \
 
   DNA_tools.py -->  https://drive.google.com/open?id=1dZ-FSOetSMiFN6epKLL3KtZhvPLcpRIn \
 
