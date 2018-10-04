@@ -85,7 +85,8 @@ PDF File handeling: https://drive.google.com/open?id=1n7Hxlgm1-A2vN8dJ71mHlHeXdT
 Needed .bed File: https://drive.google.com/open?id=1vA3foDboub8Oz1EBJb02iXaQXsJKLAss \
 Jupyter notebook Regex: https://drive.google.com/open?id=1g9_VbcOt33D3hGJjGs4d6hid-Z_UlLlx \
 Jupyter notebook Filehandeling: https://drive.google.com/open?id=1l4myNt8J6e5z1_9dtDukEo2K0hjmXJZc \
-Answers: Available after day 4
+Answers Regex: https://drive.google.com/open?id=1RYRDfLMjSSCD307UkMQWt1vSA2jbP-cP \
+Answers Filehandeling: https://drive.google.com/open?id=1OyXcvipIiREyGD98dGjq5U6hYh4qXtes \
 
 **Day 5:** Recap 
 
