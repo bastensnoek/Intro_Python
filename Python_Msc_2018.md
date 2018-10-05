@@ -21,7 +21,7 @@ https://drive.google.com/open?id=1-I2zcynSo4nfH3B8FUkSaFMaoPkCPK7i
 --------------------------------------------------------------------------------------
 # Assignment files 
 
-**Assignment notebook:** Available Friday 5th at 12:30 \
+**Assignment notebook:** https://drive.google.com/open?id=1cCmPABsQ0-Wnm8rk_qrnXDBGNsDib8ix \
 **Additional assignment files:** \
 Feature file: https://drive.google.com/open?id=1qcHNgEtW0glfI1NyYOuU0SfEkBwFX-7L \
 Sequence file: https://drive.google.com/open?id=1RKQFDmoWkdnjFWajx9FwVLwPNuvM4Wep \
