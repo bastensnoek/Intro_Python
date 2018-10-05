@@ -22,7 +22,10 @@ https://drive.google.com/open?id=1-I2zcynSo4nfH3B8FUkSaFMaoPkCPK7i
 # Assignment files 
 
 **Assignment notebook:** Available Friday 5th at 12:30 \
-**Additional assignment files:** Available Friday 5th at 12:30 \
+**Additional assignment files:** \
+Feature file: https://drive.google.com/open?id=1qcHNgEtW0glfI1NyYOuU0SfEkBwFX-7L \
+Sequence file: https://drive.google.com/open?id=1RKQFDmoWkdnjFWajx9FwVLwPNuvM4Wep \
+Gene expression file: https://drive.google.com/open?id=1we8tijbaXjRZzo10KWttPLrW-RMDWN60 \
 
 --------------------------------------------------------------------------------------
 
