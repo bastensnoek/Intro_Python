@@ -25,7 +25,7 @@ https://drive.google.com/open?id=1-I2zcynSo4nfH3B8FUkSaFMaoPkCPK7i
 **Additional assignment files:** \
 Feature file: https://drive.google.com/open?id=1qcHNgEtW0glfI1NyYOuU0SfEkBwFX-7L \
 Sequence file: https://drive.google.com/open?id=1RKQFDmoWkdnjFWajx9FwVLwPNuvM4Wep \
-Gene expression file: https://drive.google.com/open?id=1we8tijbaXjRZzo10KWttPLrW-RMDWN60 \
+Gene expression file: https://drive.google.com/open?id=1we8tijbaXjRZzo10KWttPLrW-RMDWN60
 
 --------------------------------------------------------------------------------------
 
