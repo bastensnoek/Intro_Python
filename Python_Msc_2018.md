@@ -91,7 +91,10 @@ Jupyter notebook Filehandeling: https://drive.google.com/open?id=1l4myNt8J6e5z1_
 Answers Regex: https://drive.google.com/open?id=1RYRDfLMjSSCD307UkMQWt1vSA2jbP-cP \
 Answers Filehandeling: https://drive.google.com/open?id=1OyXcvipIiREyGD98dGjq5U6hYh4qXtes \
 
-**Day 5:** Recap 
+**Day 5:** Recap
+Notebook "the hidden message: https://drive.google.com/open?id=1GZjistIRWVS8hfw1bXyt4ExymU1c_IE7 \
+Extra: genome.fa https://drive.google.com/open?id=1jtbHHHQhePgY4x6lusyOeTG56xyxe4lh \
+
 
 **Extra Notebook** List and Dictionary Navigation and Moving Snails (day6): \
 https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
