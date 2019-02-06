@@ -5,7 +5,7 @@
 Here you can find the info and links needed for the course
 **This is a Python 3.7 course**
 
-**We encourage to install Python and Jupyter on your own laptop before the course.** \
+**We encourage you to install Python and Jupyter on your own laptop before the course.** \
 
 **Installing Jupyter locally**\
 Jupyter notebooks is a user interface which makes writing and commenting on Python code more convenient.\
