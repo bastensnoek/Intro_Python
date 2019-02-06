@@ -1,6 +1,6 @@
 .Intro_Python
 
-# Welcome to the introduction to Python
+# Welcome to the introduction to Python Oct 2018 (Retired)
 
 Here you can find info and links needed for the course
 **This is a Python 2.7 course**
