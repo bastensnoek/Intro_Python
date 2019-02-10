@@ -42,7 +42,7 @@ available Friday at 12:30
 | 1   | Mo 11/10 |  9:30 - 16:30 | Str. 2.112 | Jupyter, Variables, Loops        |
 | 2   | Tu 12/10 |  9:30 - 16:30 | Str. 2.112 | Lists, Dictionaries              |
 | 3   | We 13/10 |  9:30 - 16:30 | Str. 2.112 | Functions, Modules, Plotting     |
-| 4   | Th 14/10 |  9:30 - 16:30 | Str. 2.112 | Regex and File handeling         |
+| 4   | Th 14/10 |  9:30 - 16:30 | Str. 2.112 | Regex and File handling         |
 | 5   | Fr 15/10 |  9:30 - 16:30 | Str. 2.112 | Recap, questions, **Assignment** |
 
 
@@ -75,14 +75,14 @@ DNA tools:  \
 Answers A:  \
 Answers B:  \
 
-**Day 4:** Regular expression and File handeling\
+**Day 4:** Regular expression and File handling\
 PDF Regex:  \
-PDF File handeling:  \
+PDF File handling:  \
 Needed .bed File:  \
 Jupyter notebook Regex:  \
-Jupyter notebook Filehandeling:  \
+Jupyter notebook Filehandling:  \
 Answers Regex:  \
-Answers Filehandeling:  \
+Answers Filehandling:  \
 
 **Day 5:** Recap
 Notebook "the hidden message:  \
