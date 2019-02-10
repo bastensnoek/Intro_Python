@@ -61,26 +61,23 @@ Jupyter notebook: https://drive.google.com/open?id=1qEeER8k6bfcIQCF_7Jo-OYaihEmo
 Answers:  
 
 **Day 2:** Lists, Dictionaries \
-PDF Lists:  \
-PDF Dictionaries:  \
+PDF: https://drive.google.com/open?id=1egWbxL7QAAtbo2hct2cIKGbSE3o3qhE4 \
 Jupyter notebook A:  \
 Jupyter notebook B:  \
 Answers A :  \
 Answers B : 
 
 **Day 3:** Functions, Modules, Plotting\
-PDF Functions:  \
-PDF Plotting:  \
+PDF : https://drive.google.com/open?id=1TASzgLmZohqc44RZxl7wpOSABVTramHv \
 Jupyter notebook A:  \
 Jupyter notebook B:  \
-DNA tools:  \
+DNA tools: https://drive.google.com/open?id=1bZpMMRT1V1AJjzSwGABElfmow-4Hgrd0 \
 Answers A:  \
 Answers B:  \
 
 **Day 4:** Regular expression and File handling\
-PDF Regex:  \
-PDF File handling:  \
-Needed .bed File:  \
+PDF : https://drive.google.com/open?id=1JW671yGdxaCaDxUX7jZTY5cPwnkcmZBD \
+Needed .bed File: https://drive.google.com/open?id=1_Qb_aPOQAxM-uxTIWlBao7t100FRa2se \
 Jupyter notebook Regex:  \
 Jupyter notebook Filehandling:  \
 Answers Regex:  \
