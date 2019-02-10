@@ -27,7 +27,7 @@ available Friday at 12:30
 
 # Python information
 
-**Cheatsheet Python:** https://drive.google.com/open?id=1gMO0-pf4Uxi-e0emmv7ZTksLvNJVIcv_ \
+**Cheatsheet Python:** https://drive.google.com/open?id=1gMO0-pf4Uxi-e0emmv7ZTksLvNJVIcv \
 **Cheatsheet Regex:** https://drive.google.com/open?id=1keFxUIZf3lDt3d800UcktDuSv0m48wip \
 **Cheatsheet Matplotlib:** https://drive.google.com/open?id=1mrHarxxyZjIxZ5XRGJ-DfvjL1JstMup5 \
 
