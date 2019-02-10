@@ -53,9 +53,10 @@ available Friday at 12:30
 ## Practicals and presentations ###
 
 **Day 1:** Jupyter, Variables, Loops\
-Intro: \
-PDF:  \
-Jupyter notebook:  \
+Intro: https://drive.google.com/open?id=1QzVD_PXE_tQgTx4tF_0S83ZoQ_X0HuIs \
+PDF: https://drive.google.com/open?id=1eoYB-ZxVyXuWcVgG-1m5Rq7KsiE8JRBp  \
+WCPD notebook: \
+Jupyter notebook: https://drive.google.com/open?id=1qEeER8k6bfcIQCF_7Jo-OYaihEmoPuEV \
 Answers:  
 
 **Day 2:** Lists, Dictionaries \
