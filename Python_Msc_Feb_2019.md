@@ -59,19 +59,19 @@ WCPD notebook: https://drive.google.com/open?id=1UcRheNNNbb3s6CRU-BNdT9E_isADPvO
 dna_counts.py: https://drive.google.com/open?id=1PSBVQgg_Kr3GbEcpwLNl-O4n7Axhn248 \
 dna_sequences.txt: https://drive.google.com/open?id=12c5-OF-xq1cDJc2Z5okHVEveFkNFjDzJ \
 Jupyter notebook: https://drive.google.com/open?id=1qEeER8k6bfcIQCF_7Jo-OYaihEmoPuEV \
-Answers:  
+Answers: https://drive.google.com/open?id=11S7cd3PXYNcHWyaphy0iAP3EmgVgk7Ci 
 
 **Day 2:** Lists, Dictionaries \
 PDF: https://drive.google.com/open?id=1egWbxL7QAAtbo2hct2cIKGbSE3o3qhE4 \
-Jupyter notebook A:  \
-Jupyter notebook B:  \
+Jupyter notebook A: https://drive.google.com/open?id=1QREYtk5sv1C1USkfRGYWXD4X31kcmPFc \
+Jupyter notebook B: https://drive.google.com/open?id=1yRQ78dUMoXvul4A3zaDoDJsoPBFJ1S7H \
 Answers A :  \
 Answers B : 
 
 **Day 3:** Functions, Modules, Plotting\
 PDF : https://drive.google.com/open?id=1TASzgLmZohqc44RZxl7wpOSABVTramHv \
-Jupyter notebook A:  \
-Jupyter notebook B:  \
+Jupyter notebook A: https://drive.google.com/open?id=1VhpVH2IEwhdWs1JiFop5DWlfMlWMkiqm \
+Jupyter notebook B: https://drive.google.com/open?id=1Bdq9fJ3oXBLOK-vRaiMBLbefS7NOrmAU \
 DNA tools: https://drive.google.com/open?id=1bZpMMRT1V1AJjzSwGABElfmow-4Hgrd0 \
 Answers A:  \
 Answers B:  \
@@ -79,8 +79,8 @@ Answers B:  \
 **Day 4:** Regular expression and File handling\
 PDF : https://drive.google.com/open?id=1JW671yGdxaCaDxUX7jZTY5cPwnkcmZBD \
 Needed .bed File: https://drive.google.com/open?id=1_Qb_aPOQAxM-uxTIWlBao7t100FRa2se \
-Jupyter notebook Regex:  \
-Jupyter notebook Filehandling:  \
+Jupyter notebook Regex: https://drive.google.com/open?id=1zIhGw3BhPYrM9nKgfJlZSGnfjvwQ5Nba  \
+Jupyter notebook Filehandling: https://drive.google.com/open?id=1R9sIAAjA6iDmUdIJStKDklU3ADkfh_p7 \
 Answers Regex:  \
 Answers Filehandling:  \
 
