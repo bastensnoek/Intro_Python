@@ -57,6 +57,7 @@ Intro: https://drive.google.com/open?id=1QzVD_PXE_tQgTx4tF_0S83ZoQ_X0HuIs \
 PDF: https://drive.google.com/open?id=1eoYB-ZxVyXuWcVgG-1m5Rq7KsiE8JRBp  \
 WCPD notebook: https://drive.google.com/open?id=1UcRheNNNbb3s6CRU-BNdT9E_isADPvOo \
 dna_counts.py: https://drive.google.com/open?id=1PSBVQgg_Kr3GbEcpwLNl-O4n7Axhn248 \
+dna_sequences.txt: https://drive.google.com/open?id=12c5-OF-xq1cDJc2Z5okHVEveFkNFjDzJ \
 Jupyter notebook: https://drive.google.com/open?id=1qEeER8k6bfcIQCF_7Jo-OYaihEmoPuEV \
 Answers:  
 
