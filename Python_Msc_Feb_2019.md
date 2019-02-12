@@ -65,8 +65,8 @@ Answers: https://drive.google.com/open?id=11S7cd3PXYNcHWyaphy0iAP3EmgVgk7Ci
 PDF: https://drive.google.com/open?id=1egWbxL7QAAtbo2hct2cIKGbSE3o3qhE4 \
 Jupyter notebook A: https://drive.google.com/open?id=1QREYtk5sv1C1USkfRGYWXD4X31kcmPFc \
 Jupyter notebook B: https://drive.google.com/open?id=1yRQ78dUMoXvul4A3zaDoDJsoPBFJ1S7H \
-Answers A :  \
-Answers B : 
+Answers A : https://drive.google.com/open?id=1OVVNIIx8cafoZwP7_6NkwxZ7tW4VuRmI \
+Answers B : https://drive.google.com/open?id=1nHAehIywoneS93eu1XGcQ07B8w9j3Eo7
 
 **Day 3:** Functions, Modules, Plotting\
 PDF : https://drive.google.com/open?id=1TASzgLmZohqc44RZxl7wpOSABVTramHv \
