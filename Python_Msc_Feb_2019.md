@@ -73,8 +73,8 @@ PDF : https://drive.google.com/open?id=1TASzgLmZohqc44RZxl7wpOSABVTramHv \
 Jupyter notebook A: https://drive.google.com/open?id=1VhpVH2IEwhdWs1JiFop5DWlfMlWMkiqm \
 Jupyter notebook B: https://drive.google.com/open?id=1Bdq9fJ3oXBLOK-vRaiMBLbefS7NOrmAU \
 DNA tools: https://drive.google.com/open?id=1bZpMMRT1V1AJjzSwGABElfmow-4Hgrd0 \
-Answers A:  \
-Answers B:  \
+Answers A: https://drive.google.com/open?id=13hBrTut3dpkmndPFpZLZ_LwdLTaeBXWx \
+Answers B: https://drive.google.com/open?id=1ve6-aHN9blu8DhESQu3QwD7xTsPcC3wS \
 
 **Day 4:** Regular expression and File handling\
 PDF : https://drive.google.com/open?id=1JW671yGdxaCaDxUX7jZTY5cPwnkcmZBD \
