@@ -19,11 +19,11 @@ https://drive.google.com/file/d/1bSnldhufAry6aBLygBANeOVky8eTcMGL/view?usp=shari
 --------------------------------------------------------------------------------------
 # Assignment files 
 
-**Assignment notebook:** available Friday at 12:30 \
+**Assignment notebook:** https://drive.google.com/open?id=13QP0O2LlSR0qWjRzWjV7RyqW1ZwkS9uz \
 **Additional assignment files:** \
-Sequence file: \
-Feature file: \
-DNA_tools.py: \
+Coding file: https://drive.google.com/open?id=11G8qEDJc87xHyhavtfNnuOpWZTSs2Dq9 \
+Peptides file: https://drive.google.com/open?id=1Ak2tMpEOzwEm_1DGr0t2BuAzNE7NOFXe \
+DNA_tools.py: https://drive.google.com/open?id=1eTpPGBbe3FOEt86aZTzABc0ygUnBaKkf \
 available Friday at 12:30
 
 --------------------------------------------------------------------------------------
