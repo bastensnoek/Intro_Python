@@ -21,6 +21,9 @@ https://drive.google.com/file/d/1bSnldhufAry6aBLygBANeOVky8eTcMGL/view?usp=shari
 
 **Assignment notebook:** available Friday at 12:30 \
 **Additional assignment files:** \
+Sequence file: \
+Feature file: \
+DNA_tools.py: \
 available Friday at 12:30
 
 --------------------------------------------------------------------------------------
@@ -95,7 +98,7 @@ Snail File (you need this for the notebook: \
 https://drive.google.com/open?id=1aLoLwtkAyJdhcfDhNkTs06aYIdvU_mT0
 
 
-DNA_tools.py -->   \
+
 
 **Extra information and references:** \
 https://en.wikibooks.org/wiki/Python_Programming (some references can be Python 2.7!) \
