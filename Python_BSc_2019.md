@@ -56,11 +56,11 @@ available Thursday May 9th at 12:00
 
 **Day 1:** Jupyter, Variables, Loops\
 Intro: https://drive.google.com/open?id=1gKj277eSuSR9n5pDQs2IS7S4CFIsrc-3  \
-PDF:   \
-WCPD notebook:  \
-dna_counts.py: \
-dna_sequences.txt:  \
-Jupyter notebook:  \
+PDF:   https://drive.google.com/open?id=1ena-pHr0q_WIndTdjUzdPWFdruxjU9cJ \
+WCPD notebook: https://drive.google.com/open?id=1yfe3rLz2HgKsjpKsIc3O-XHmR_IygUL9 \
+dna_counts.py: https://drive.google.com/open?id=1tnUZduFRfLzuOCv6Y7zG1R2nFAGE6jZr \
+dna_sequences.txt: https://drive.google.com/open?id=1TaHvS-bJN5C8J04he3PFfboACQCWVcrR \
+Jupyter notebook: https://drive.google.com/open?id=1o6E1GZQ2fdtbOvKuU5eywN5dgjRJ61-S \
 Answers:  
 
 **Day 2:** Lists, Dictionaries \
