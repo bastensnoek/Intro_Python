@@ -97,8 +97,8 @@ Extra: genome.fa  \
 
 
 **Extra Notebook** List and Dictionary Navigation and Moving Snails (day6): \
-https://drive.google.com/open?id=1rgGo6B1tjMwMmHD8NsUoTIfD8CrsJhft \
-      Snail file: https://drive.google.com/open?id=1uM-YlId3Z4-t1okcrB7q0UPNAnCCCzdi \
+ \
+      Snail file: \
 
   DNA_tools.py -->   \
 
