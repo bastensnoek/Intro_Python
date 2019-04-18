@@ -27,7 +27,7 @@ available Thursday May 9th at 12:00
 
 # Python information
 
-**Cheatsheet Python:** https://drive.google.com/open?id=1rAj0L93NvnUkC2DvaqMeTSS3Cs82wnEr \
+**Cheatsheet Python:** https://drive.google.com/open?id=1QSPDBgcT9aTSc5vF5HZ9WE_URCA424p- \
 **Cheatsheet Regex:** https://drive.google.com/open?id=1keFxUIZf3lDt3d800UcktDuSv0m48wip \
 **Cheatsheet Matplotlib:** https://drive.google.com/open?id=1mrHarxxyZjIxZ5XRGJ-DfvjL1JstMup5
 
