@@ -45,7 +45,7 @@ available Thursday May 9th at 12:00
 | 2   | Th 24/04 |  09:00 - 15:00 | HVDB - 2.70/2.71 | Lists, Dictionaries        |
 | 3   | Mo 29/04 |  13:15 - 17:00 | AZU - CLZ-1/2    | Functions, Modules         |
 | 4   | Tu 30/04 |  09:00 - 15:00 | AZU - CLZ-1/2    | Plotting, Regex            |
-| 5   | Th 02/05 |  09:00 - 15:00 | HVDB - 2.70/2.71 | File handling             |
+| 5   | Th 02/05 |  09:00 - 15:00 | HVDB - 2.70/2.71 | File handling              |
 | 6   | Mo 06/05 |  13:15 - 17:00 | AZU - CLZ-1/2    | Self-study                 |
 | 7   | Tu 07/05 |  09:00 - 15:00 | AZU - CLZ-1/2    | Recap, questions           |
 | 8   | Th 09/05 |  11:45 - 15:00 | AZU - CLZ-1/2    | **Assignment**             |
@@ -68,32 +68,33 @@ https://drive.google.com/open?id=16vnN8TEXU-T7oNPwvpZZOJh2SiyvTKZc \
 Answers: https://drive.google.com/open?id=1YCVCoNAHetQF03xu88lSZPqaUraTENZC 
 
 **Day 2:** Lists, Dictionaries \
-PDF: \
-Jupyter notebook Lists:  \
-Jupyter notebook Dictonaries:  \
+PDF: https://drive.google.com/open?id=11lzmCWAXPCoKsHYVuddIzA-sTQ6IcjNx \
+Jupyter notebook Lists: https://drive.google.com/open?id=1LAWGhsqcUpRUm2eBvbVnv2ANdHjMqMWR \
+Jupyter notebook Dictonaries: https://drive.google.com/open?id=1Kt4LUmhkhNUR9fnDc04vcE4h0heoc85h \
 Answers Lists:  \
 Answers Dictonaries: 
 
 **Day 3:** Functions, Modules \
-PDF :  \
-Jupyter notebook Functions:  \
-Jupyter notebook Modules:  \
-DNA tools: \
+PDF: https://drive.google.com/open?id=1wuadY-QdH9kAIqGzzUE7ZKyYOCsoLr-w \
+Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1Ece9s4AKKtKQYRau4dvbujHLxFBcUeWJ \
+DNA tools: https://drive.google.com/open?id=1HcqdzJo6kYfBkFZdWrhzmDUMC86dpNLU \
 Answers Functions:  \
-Answers Modules:  \
+
 
 **Day 4:** Plotting, Regular expression \
-PDF :  \
-Jupyter notebook Plotting:   \
-Jupyter notebook Regex:  \
+PDF Plotting: https://drive.google.com/open?id=1QiB1UTum36LByygOixGjOv-e_qy1YI9P \
+PDF Regex: https://drive.google.com/open?id=1L-P1hAs2J04KnbvXDyx_TMpIHpGsVfNz \
+Jupyter notebook Plotting: https://drive.google.com/open?id=1-CoH8aR7eVrHktDfnNOUrvdHGhOQHdT6  \
+Jupyter notebook Regex: https://drive.google.com/open?id=1HWauDjdLn0U5wnX_daBYjAkcZQjoUsqo \
 Answers Plotting: \
 Answers Regex:  \
 
 **Day 5:** File handling \
-PDF: \
-Needed .bed File:  \
-Needed XY File:  \
-Jupyter notebook File handling: \
+PDF: https://drive.google.com/open?id=1Jvgv8DHzlM2KbUJDD1Tl1mCOMjR6GH4I \
+Needed .bed File: https://drive.google.com/open?id=1CkQsbQ48L2ab56lUujGCRvsJlbyb78Ik \
+Needed XY File: https://drive.google.com/open?id=1ZTQWyPF4Bfy6RRMSyomlIgKMY7H9_W22 \
+Jupyter notebook File handling: https://drive.google.com/open?id=1hK1_B3NUBsz5-fTY1kmFHqFnq2FFVf2S \
+Answers File handling: \
 
 **Day 6:** Extra
 Notebook "the hidden message: https://drive.google.com/open?id=1u2_JCd1T1X3UPV7BWRprcrNtUhgwWRmr  \
