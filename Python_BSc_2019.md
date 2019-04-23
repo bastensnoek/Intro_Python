@@ -65,7 +65,7 @@ dna_sequences.txt: https://drive.google.com/open?id=1TaHvS-bJN5C8J04he3PFfboACQC
 Jupyter notebook: https://drive.google.com/open?id=1o6E1GZQ2fdtbOvKuU5eywN5dgjRJ61-S \
 Jupyter notebook incl Loops (incase your version did not include the loop exercises: \
 https://drive.google.com/open?id=16vnN8TEXU-T7oNPwvpZZOJh2SiyvTKZc \
-Answers:  
+Answers: https://drive.google.com/open?id=1YCVCoNAHetQF03xu88lSZPqaUraTENZC 
 
 **Day 2:** Lists, Dictionaries \
 PDF: \
