@@ -71,14 +71,14 @@ Answers: https://drive.google.com/open?id=1YCVCoNAHetQF03xu88lSZPqaUraTENZC
 PDF: https://drive.google.com/open?id=11lzmCWAXPCoKsHYVuddIzA-sTQ6IcjNx \
 Jupyter notebook Lists: https://drive.google.com/open?id=1LAWGhsqcUpRUm2eBvbVnv2ANdHjMqMWR \
 Jupyter notebook Dictonaries: https://drive.google.com/open?id=1Kt4LUmhkhNUR9fnDc04vcE4h0heoc85h \
-Answers Lists:  \
-Answers Dictonaries: 
+Answers Lists: https://drive.google.com/open?id=1BjYTn2KmnvtWtRwK65vgAhTYy98iG0sM  \
+Answers Dictonaries: https://drive.google.com/open?id=1VADR6tI95zOx5py23kxd1BkOCPcbx5TM
 
 **Day 3:** Functions, Modules \
 PDF: https://drive.google.com/open?id=1wuadY-QdH9kAIqGzzUE7ZKyYOCsoLr-w \
 Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1Ece9s4AKKtKQYRau4dvbujHLxFBcUeWJ \
 DNA tools: https://drive.google.com/open?id=1HcqdzJo6kYfBkFZdWrhzmDUMC86dpNLU \
-Answers Functions:  \
+Answers Functions and Modules:  \
 
 
 **Day 4:** Plotting, Regular expression \
