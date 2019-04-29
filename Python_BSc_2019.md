@@ -78,7 +78,7 @@ Answers Dictonaries: https://drive.google.com/open?id=1VADR6tI95zOx5py23kxd1BkOC
 PDF: https://drive.google.com/open?id=1wuadY-QdH9kAIqGzzUE7ZKyYOCsoLr-w \
 Jupyter notebook Functions and Modules: https://drive.google.com/open?id=1Ece9s4AKKtKQYRau4dvbujHLxFBcUeWJ \
 DNA tools: https://drive.google.com/open?id=1HcqdzJo6kYfBkFZdWrhzmDUMC86dpNLU \
-Answers Functions and Modules:  \
+Answers Functions and Modules: https://drive.google.com/open?id=1cRTGSSbLz_eNvaNHlw2aMk5VWYclMpbN \
 
 
 **Day 4:** Plotting, Regular expression \
