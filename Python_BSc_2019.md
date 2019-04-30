@@ -86,8 +86,8 @@ PDF Plotting: https://drive.google.com/open?id=1QiB1UTum36LByygOixGjOv-e_qy1YI9P
 PDF Regex: https://drive.google.com/open?id=1L-P1hAs2J04KnbvXDyx_TMpIHpGsVfNz \
 Jupyter notebook Plotting: https://drive.google.com/open?id=1-CoH8aR7eVrHktDfnNOUrvdHGhOQHdT6  \
 Jupyter notebook Regex: https://drive.google.com/open?id=1HWauDjdLn0U5wnX_daBYjAkcZQjoUsqo \
-Answers Plotting: \
-Answers Regex:  \
+Answers Plotting: https://drive.google.com/open?id=1t_qkOiSOp1I7C5MLfky1laUyUATYk5bf \
+Answers Regex: https://drive.google.com/open?id=1V6yq7tjWcZ0QvAIUOXvWsja8Utj2Ifgl \
 
 **Day 5:** File handling \
 PDF: https://drive.google.com/open?id=1Jvgv8DHzlM2KbUJDD1Tl1mCOMjR6GH4I \
