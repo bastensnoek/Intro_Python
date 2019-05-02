@@ -99,7 +99,7 @@ Answers File handling: \
 **Day 6:** Extra
 Notebook "the hidden message: https://drive.google.com/open?id=18U9AKbQOSLaj8VA59BP28GZtVOdtyWvy  \
 Extra: genome.fa https://drive.google.com/open?id=1QLFpH1WQa1kOA6mrvsmphi0wcbBI9T6Y \
-Notebook: https://drive.google.com/open?id=1PzJ153iV6G6cnbYytybcMBzrRDhmOI0a \
+Notebook: https://drive.google.com/open?id=11bUuykfOv-HgeH9uH8_vfD2CNZv0eUAG \
 Snail File (you need this for the notebook: \
 https://drive.google.com/open?id=1aLoLwtkAyJdhcfDhNkTs06aYIdvU_mT0
 
