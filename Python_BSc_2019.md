@@ -101,7 +101,7 @@ Notebook "the hidden message: https://drive.google.com/open?id=18U9AKbQOSLaj8VA5
 Extra: genome.fa https://drive.google.com/open?id=1QLFpH1WQa1kOA6mrvsmphi0wcbBI9T6Y \
 Notebook: https://drive.google.com/open?id=11bUuykfOv-HgeH9uH8_vfD2CNZv0eUAG \
 Snail File (you need this for the notebook: \
-https://drive.google.com/open?id=1aLoLwtkAyJdhcfDhNkTs06aYIdvU_mT0
+https://drive.google.com/open?id=1u3iIaIQoFSlBKMuc_pvBc48EvK7MAzWj
 
 **Day 7:** Recap, Questions
 
