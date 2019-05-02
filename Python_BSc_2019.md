@@ -97,7 +97,7 @@ Jupyter notebook File handling: https://drive.google.com/open?id=1hK1_B3NUBsz5-f
 Answers File handling: \
 
 **Day 6:** Extra
-Notebook "the hidden message: https://drive.google.com/open?id=1u2_JCd1T1X3UPV7BWRprcrNtUhgwWRmr  \
+Notebook "the hidden message: https://drive.google.com/open?id=18U9AKbQOSLaj8VA59BP28GZtVOdtyWvy  \
 Extra: genome.fa https://drive.google.com/open?id=1LDaNEpxVB00hcN8U6dR1JQ8VI4kFHIxN \
 Notebook: https://drive.google.com/open?id=1PzJ153iV6G6cnbYytybcMBzrRDhmOI0a \
 Snail File (you need this for the notebook: \
