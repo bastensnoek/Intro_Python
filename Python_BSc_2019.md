@@ -104,7 +104,7 @@ Snail File (you need this for the notebook: \
 https://drive.google.com/open?id=1u3iIaIQoFSlBKMuc_pvBc48EvK7MAzWj 
 
 **Zebrafish files** \
-U can use these files to practice getting data from a file in a list or dictionary. \
+U can use these files to practice getting data from a file in a list or dictionary, followed by an investigation and plotting some results. \
 The contents of the first file are the coding sequences on Zebrafish chromosomes 1 and 2 in FASTA format. The headers in this file are build from: gene-id, chromosome, start, stop. After each header the sequence is given, which might be on multiple lines. \
 The second file contains the gene-ids and their associated phenotype(s). \
 
@@ -112,9 +112,9 @@ Fasta file: https://drive.google.com/open?id=1KZ8iLHwCPzcgt55iRWDGWUgEA88xBI8E \
 Pheno file: https://drive.google.com/open?id=1f035PyGsyQthkIUTNR8dJdXKsEdtYED0 \
 
 Some questions you can think of: \
-- How many genes are on the indifidual chromosomes? \
+- How many genes are on the indifidual chromosomes?
 - What is the distribution of the positions of genes over both chromosomes? \
-- Can i make the coding sequences in to peptides and count aminoacid usage? \
+- Make the coding sequences in to peptides and count aminoacid usage? \
 - What is the distribution of the length of the genes? \
 - How many genes on chromosome 1 are linked to a phenotype ? \
 - What is the position of genes accosiacted to a certain phenotype? \
