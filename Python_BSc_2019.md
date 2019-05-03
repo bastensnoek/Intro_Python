@@ -96,12 +96,31 @@ Needed XY File: https://drive.google.com/open?id=1ZTQWyPF4Bfy6RRMSyomlIgKMY7H9_W
 Jupyter notebook File handling: https://drive.google.com/open?id=1hK1_B3NUBsz5-fTY1kmFHqFnq2FFVf2S \
 Answers File handling: \
 
-**Day 6:** Extra
+**Day 6:** Extra \
 Notebook "the hidden message: https://drive.google.com/open?id=18U9AKbQOSLaj8VA59BP28GZtVOdtyWvy  \
 Extra: genome.fa https://drive.google.com/open?id=1QLFpH1WQa1kOA6mrvsmphi0wcbBI9T6Y \
 Notebook: https://drive.google.com/open?id=11bUuykfOv-HgeH9uH8_vfD2CNZv0eUAG \
 Snail File (you need this for the notebook: \
-https://drive.google.com/open?id=1u3iIaIQoFSlBKMuc_pvBc48EvK7MAzWj
+https://drive.google.com/open?id=1u3iIaIQoFSlBKMuc_pvBc48EvK7MAzWj 
+
+**Zebrafish files** \
+U can use these files to practice getting data from a file in a list or dictionary. \
+The contents of the first file are the coding sequences on Zebrafish chromosomes 1 and 2 in FASTA format. The headers in this file are build from: gene-id, chromosome, start, stop. After each header the sequence is given, which might be on multiple lines. \
+The second file contains the gene-ids and their associated phenotype(s). \
+
+Fasta file: https://drive.google.com/open?id=1KZ8iLHwCPzcgt55iRWDGWUgEA88xBI8E \
+Pheno file: https://drive.google.com/open?id=1f035PyGsyQthkIUTNR8dJdXKsEdtYED0 \
+
+Some questions you can think of: \
+- How many genes are on the indifidual chromosomes? \
+- What is the distribution of the positions of genes over both chromosomes? \
+- Can i make the coding sequences in to peptides and count aminoacid usage? \
+- What is the distribution of the length of the genes? \
+- How many genes on chromosome 1 are linked to a phenotype ? \
+- What is the position of genes accosiacted to a certain phenotype? \
+- Be creative, ...
+
+Good luck!
 
 **Day 7:** Recap, Questions
 
