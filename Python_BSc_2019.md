@@ -109,7 +109,7 @@ The contents of the first file are the coding sequences on Zebrafish chromosomes
 The second file contains the gene-ids and their associated phenotype(s).
 
 Fasta file: https://drive.google.com/open?id=1KZ8iLHwCPzcgt55iRWDGWUgEA88xBI8E \
-Pheno file: https://drive.google.com/open?id=1f035PyGsyQthkIUTNR8dJdXKsEdtYED0
+Chicken Phenotype file: https://drive.google.com/open?id=1Wu54LNgCrpmDuLQ7-Je_8SGODQPsEMk3
 
 Some questions you can think of: 
 - How many genes are on the individual chromosomes?
