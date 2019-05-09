@@ -21,8 +21,11 @@ After installation make a work folder in the "Documents" folder for easy access 
 --------------------------------------------------------------------------------------
 # Assignment files 
 
-**Assignment notebook:** \
+**Assignment notebook:** https://drive.google.com/open?id=1IfWC_hz2nCAZLwErTLl4NwdITWTB4nsg \
 **Additional assignment files:** \
+DNA Tools: https://drive.google.com/open?id=1tFxyO9bZm8dZ6VtDmuL4OFaFckJF85m4 \
+Mouse Fasta file: https://drive.google.com/open?id=1CDWwfpLS3tGYCo7Uw9FHmBrJwOuYT0Gy \
+Data in .py: https://drive.google.com/open?id=1OzgTFC359rikrjyTQ8Eu6XFS_AlMPwsY \
 available Thursday May 9th at 12:00
 
 --------------------------------------------------------------------------------------
