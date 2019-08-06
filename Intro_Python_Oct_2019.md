@@ -53,7 +53,8 @@ available Friday at 12:00
 | 8   | We 02/10 |  9:30 - 15:00 | Str. 2.112 | Recap, Questions          |
 | 9   | Th 03/10 |  9:00 - 17:00 | Str. 2.112 | Self-study                |
 | 10  | Fr 04/10 | 11:30 - 16:00 | Str. 2.112 | **Final Assignment**      |
-*Lunch breaks are between 12:30 and 13:00.
+
+Lunch breaks are between 12:30 and 13:00.
 
 
 
