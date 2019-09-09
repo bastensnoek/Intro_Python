@@ -30,9 +30,9 @@ available Friday at 12:00
 
 # Python information
 
-**Cheatsheet Python:** \
-**Cheatsheet Regex:**  \
-**Cheatsheet Matplotlib:** 
+**Cheatsheet Python:** https://drive.google.com/open?id=1N71Ez322zHfIrwD02q3_kHW6O3eteYEI \
+**Cheatsheet Regex:** https://drive.google.com/open?id=1keFxUIZf3lDt3d800UcktDuSv0m48wip \
+**Cheatsheet Matplotlib:** https://drive.google.com/open?id=1JoQ8zFa1Zo844xH9VORKVTT7zPHrjEW5 
 
 **Python documentation:** https://docs.python.org/3.7/ \
 **Google:** https://www.google.com/ \
