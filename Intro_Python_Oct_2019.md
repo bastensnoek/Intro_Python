@@ -14,7 +14,7 @@ https://www.anaconda.com/download/
 
 **Installation guide**
 A manual "how to install Python and Jupyter via Anaconda" can be found here:\
-
+https://drive.google.com/open?id=10apq_6_SeEQuKFegjZRvUNLhkRdazG0a
 
 --------------------------------------------------------------------------------------
 # Assignment files 
