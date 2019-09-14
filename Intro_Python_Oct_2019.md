@@ -61,8 +61,8 @@ Lunch breaks are between 12:30 and 13:00.
 ## Practicals and presentations ###
 
 **Day 1:** Jupyter, Variables, Loops\
-Intro: \
-PDF: \
+Intro: https://drive.google.com/open?id=1U4NeS2uW_URVbQZxa6s3Z46ZbE5pSu9s \
+PDF: https://drive.google.com/open?id=1Y7uNVu5-etVaooLEFYmx6mBuuwWlbHKA \
 WCPD notebook: \
 dna_counts.py: \
 dna_sequences.txt: \
