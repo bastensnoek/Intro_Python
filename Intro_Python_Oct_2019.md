@@ -44,7 +44,7 @@ available Friday at 12:00
 |-----|----------|---------------|------------|---------------------------|
 | 1   | Mo 23/09 |  9:30 - 15:00 | Str. 2.112 | Jupyter, Variables, Loops |
 | 2   | Tu 24/09 |  9:30 - 15:00 | Str. 2.112 | Lists, Dictionaries       |
-| 3   | We 25/09 |  9:30 - 15:00 | Str. 2.112 | Functions, Modules	  |
+| 3   | We 25/09 |  9:30 - 15:00 | Str. 2.112 | Functions, Modules	      |
 | 4   | Th 26/09 |  9:30 - 15:00 | Str. 2.112 | Plotting, Regex           |
 | 5   | Fr 27/09 |  9:00 - 17:00 | Str. 2.112 | Self-study                |
 |-----|----------|---------------|------------|---------------------------|
@@ -70,14 +70,14 @@ Jupyter notebook: \
 Answers:  
 
 **Day 2:** Lists, Dictionaries \
-PDF:  \
+PDF: https://drive.google.com/open?id=1itz4QyZaSvxN6tBxodA3ptcTTv7sVL6p \
 Jupyter notebook A: \
 Jupyter notebook B: \
 Answers A : \
 Answers B : 
 
 **Day 3:** Functions, Modules \
-PDF: \
+PDF: https://drive.google.com/open?id=1-qZJW7NA1d5TJTAE2pFt_lIoeUhCbuNL \
 Jupyter notebook A: \
 Jupyter notebook B: \
 DNA tools: \
@@ -85,14 +85,15 @@ Answers A: \
 Answers B: \
 
 **Day 4:** Plotting, Regular expression \
-PDF: \
+PDF Plotting: https://drive.google.com/open?id=1oIPHNgiTVwZzZ8onW1C_MKd-FAp0BekO \
+PDF Regex: https://drive.google.com/open?id=1yEpxHUaLYW_ksqOm8ycv0qSFxcea34d1 \
 Needed .bed File: \
 Needed XY File: \
 Jupyter notebook Regex: \
 Answers Regex: \
 
 **Day 6:** File handling \
-PDF: \
+PDF: https://drive.google.com/open?id=14fnEbOCViSqeTNzHNI6IJahtzHnqGCuV \
 Jupyter notebook File handling:  \
 Answers File handling:  \
 
