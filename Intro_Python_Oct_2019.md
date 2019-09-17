@@ -63,38 +63,38 @@ Lunch breaks are between 12:30 and 13:00.
 **Day 1:** Jupyter, Variables, Loops\
 Intro: https://drive.google.com/open?id=1U4NeS2uW_URVbQZxa6s3Z46ZbE5pSu9s \
 PDF: https://drive.google.com/open?id=1Y7uNVu5-etVaooLEFYmx6mBuuwWlbHKA \
-WCPD notebook: \
-dna_counts.py: \
-dna_sequences.txt: \
-Jupyter notebook: \
+WCPD notebook: https://drive.google.com/open?id=1mBikQS4tEMwvIRhHutwOCKh-KZhB6jIP \
+dna_counts.py: https://drive.google.com/open?id=19kpnnuVqu8diegO5OjeRHWI-SIh2t0TF \
+dna_sequences.txt: https://drive.google.com/open?id=1IG_yGrlSaVch2WjToCtSIXRosLtWsh_E \
+Jupyter notebook: https://drive.google.com/open?id=1ml4xyP3pgLgeMXDtUzFOrDbGIYk8klAl \
 Answers:  
 
 **Day 2:** Lists, Dictionaries \
 PDF: https://drive.google.com/open?id=1itz4QyZaSvxN6tBxodA3ptcTTv7sVL6p \
-Jupyter notebook A: \
-Jupyter notebook B: \
+Jupyter notebook A: https://drive.google.com/open?id=1mEhdB9rqDRFIn1Lduv6etotvJXobIvIi \
+Jupyter notebook B: https://drive.google.com/open?id=10umRcyG4cmG5wz2QXqK2_NbtTQibntR2 \
 Answers A : \
 Answers B : 
 
 **Day 3:** Functions, Modules \
 PDF: https://drive.google.com/open?id=1-qZJW7NA1d5TJTAE2pFt_lIoeUhCbuNL \
-Jupyter notebook A: \
-Jupyter notebook B: \
-DNA tools: \
-Answers A: \
-Answers B: \
+Jupyter notebook: https://drive.google.com/open?id=1siiwIkxhASGjoJOVGiNRGrUv3Vb91zcf \
+DNA tools: https://drive.google.com/open?id=1EQBVWSef4kMMb9IeZot7JCC8GBjjNjni \
+Answers: \
 
 **Day 4:** Plotting, Regular expression \
 PDF Plotting: https://drive.google.com/open?id=1oIPHNgiTVwZzZ8onW1C_MKd-FAp0BekO \
 PDF Regex: https://drive.google.com/open?id=1yEpxHUaLYW_ksqOm8ycv0qSFxcea34d1 \
-Needed .bed File: \
-Needed XY File: \
-Jupyter notebook Regex: \
+Needed .bed File: https://drive.google.com/open?id=1wwDIxZP1SUH-8P2T13taIv7SIVX3U19r \
+Needed XY File: https://drive.google.com/open?id=1_Bf-B_4PJN8xGGNDxuT0NSelMPNfDK2F \
+Jupyter notebook Plotting: https://drive.google.com/open?id=1pY_HMGtmmI_vq5lsdYcUrpJNiwyNdQQu \
+Jupyter notebook Regex: https://drive.google.com/open?id=1T80oy9caJ1hOn3oMHEAlN87CRkjxOVF6 \
+Answers Plotting: \
 Answers Regex: \
 
 **Day 6:** File handling \
 PDF: https://drive.google.com/open?id=14fnEbOCViSqeTNzHNI6IJahtzHnqGCuV \
-Jupyter notebook File handling:  \
+Jupyter notebook File handling: https://drive.google.com/open?id=1ZrTCPokg0gELZJHE4k3yVuW6w82-wfN_ \
 Answers File handling:  \
 
 
