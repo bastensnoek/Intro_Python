@@ -46,12 +46,12 @@ available Friday at 12:00
 | 2   | Tu 24/09 |  9:30 - 15:00 | Str. 2.112 | Lists, Dictionaries       |
 | 3   | We 25/09 |  9:30 - 15:00 | Str. 2.112 | Functions, Modules	      |
 | 4   | Th 26/09 |  9:30 - 15:00 | Str. 2.112 | Plotting, Regex           |
-| 5   | Fr 27/09 |  9:00 - 17:00 | Str. 2.112 | Self-study                |
+| 5   | Fr 27/09 |  9:00 - 17:00 | -          | Self-study                |
 |-----|----------|---------------|------------|---------------------------|
 | 6   | Mo 30/09 |  9:30 - 15:00 | Str. 2.112 | File Handling             |
-| 7   | Tu 01/10 |  9:00 - 17:00 | Str. 2.112 | Self-study                |
+| 7   | Tu 01/10 |  9:00 - 17:00 | -          | Self-study                |
 | 8   | We 02/10 |  9:30 - 15:00 | Str. 2.112 | Recap, Questions          |
-| 9   | Th 03/10 |  9:00 - 17:00 | Str. 2.112 | Self-study                |
+| 9   | Th 03/10 |  9:00 - 17:00 | -          | Self-study                |
 | 10  | Fr 04/10 | 11:30 - 16:00 | Str. 2.112 | **Final Assignment**      |
 
 Lunch breaks are between 12:30 and 13:00.
