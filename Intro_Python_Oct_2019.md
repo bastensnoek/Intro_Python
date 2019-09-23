@@ -67,7 +67,7 @@ WCPD notebook: https://drive.google.com/open?id=1mBikQS4tEMwvIRhHutwOCKh-KZhB6jI
 dna_counts.py: https://drive.google.com/open?id=19kpnnuVqu8diegO5OjeRHWI-SIh2t0TF \
 dna_sequences.txt: https://drive.google.com/open?id=1IG_yGrlSaVch2WjToCtSIXRosLtWsh_E \
 Jupyter notebook: https://drive.google.com/open?id=1ml4xyP3pgLgeMXDtUzFOrDbGIYk8klAl \
-Answers:  
+Answers: https://drive.google.com/open?id=1qPs8nydCehkQGnSXnkuJ5G1qSKyN_oSj  
 
 **Day 2:** Lists, Dictionaries \
 PDF: https://drive.google.com/open?id=1itz4QyZaSvxN6tBxodA3ptcTTv7sVL6p \
