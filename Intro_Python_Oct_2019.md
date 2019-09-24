@@ -73,8 +73,8 @@ Answers: https://drive.google.com/open?id=1qPs8nydCehkQGnSXnkuJ5G1qSKyN_oSj
 PDF: https://drive.google.com/open?id=1itz4QyZaSvxN6tBxodA3ptcTTv7sVL6p \
 Jupyter notebook A: https://drive.google.com/open?id=1mEhdB9rqDRFIn1Lduv6etotvJXobIvIi \
 Jupyter notebook B: https://drive.google.com/open?id=10umRcyG4cmG5wz2QXqK2_NbtTQibntR2 \
-Answers A : \
-Answers B : 
+Answers A : https://drive.google.com/open?id=1vOCxb8_ZbTS0vPtl0lG3yepRqx6RAnmL \
+Answers B : https://drive.google.com/open?id=1AZL79LVxraMqkuJZjrWKn0K_DxjTqqVu
 
 **Day 3:** Functions, Modules \
 PDF: https://drive.google.com/open?id=1-qZJW7NA1d5TJTAE2pFt_lIoeUhCbuNL \
@@ -101,8 +101,9 @@ Answers File handling:  \
 **Day 7:** Extra
 Notebook "the hidden message: \
 Genome File: genome.fa  \
-Notebook: \
-Snail File (you need this for the notebook: \
+Notebook: https://drive.google.com/open?id=1UgQAMXSR2Etcj1Q5IvlRwbBBtd1UDXQW \
+Snail File (you need this for the last parts of the notebook: \
+https://drive.google.com/open?id=1Gvz3Gl6hVPnrvc75-3wTnShl6xRnntxo 
 
 
 
