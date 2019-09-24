@@ -94,7 +94,7 @@ Answers Regex: \
 
 **Day 6:** File handling \
 PDF: https://drive.google.com/open?id=14fnEbOCViSqeTNzHNI6IJahtzHnqGCuV \
-Jupyter notebook File handling: https://drive.google.com/open?id=1ZrTCPokg0gELZJHE4k3yVuW6w82-wfN_ \
+Jupyter notebook File handling: https://drive.google.com/open?id=1LLbKDnDmaghBOEaFsQveOYG22JBJStBA \
 Answers File handling:  \
 
 
