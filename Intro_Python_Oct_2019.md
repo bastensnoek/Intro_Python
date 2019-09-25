@@ -80,7 +80,8 @@ Answers B : https://drive.google.com/open?id=1AZL79LVxraMqkuJZjrWKn0K_DxjTqqVu
 PDF: https://drive.google.com/open?id=1-qZJW7NA1d5TJTAE2pFt_lIoeUhCbuNL \
 Jupyter notebook: https://drive.google.com/open?id=1siiwIkxhASGjoJOVGiNRGrUv3Vb91zcf \
 DNA tools: https://drive.google.com/open?id=1EQBVWSef4kMMb9IeZot7JCC8GBjjNjni \
-Answers: \
+Answers: https://drive.google.com/open?id=1EbNrwlGUWMV64XAm8TaOT7_D_-GxFr_P \
+Extra Examples: https://drive.google.com/open?id=1fyP0-K5a_ifaOr0UNR_XTQIrOcVkgoI2 \
 
 **Day 4:** Plotting, Regular expression \
 PDF Plotting: https://drive.google.com/open?id=1oIPHNgiTVwZzZ8onW1C_MKd-FAp0BekO \
