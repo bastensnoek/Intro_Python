@@ -90,8 +90,8 @@ Needed .bed File: https://drive.google.com/open?id=1wwDIxZP1SUH-8P2T13taIv7SIVX3
 Needed XY File: https://drive.google.com/open?id=1_Bf-B_4PJN8xGGNDxuT0NSelMPNfDK2F \
 Jupyter notebook Plotting: https://drive.google.com/open?id=1pY_HMGtmmI_vq5lsdYcUrpJNiwyNdQQu \
 Jupyter notebook Regex: https://drive.google.com/open?id=1T80oy9caJ1hOn3oMHEAlN87CRkjxOVF6 \
-Answers Plotting: \
-Answers Regex: \
+Answers Plotting: https://drive.google.com/open?id=1YYuF1IjlpveZPo-6uFZIBzgCFDkRfRfh \
+Answers Regex: https://drive.google.com/open?id=1WaFB5TCU1zvuYcziUZsf-gyFpbBwSagd \
 
 **Day 6:** File handling \
 PDF: https://drive.google.com/open?id=14fnEbOCViSqeTNzHNI6IJahtzHnqGCuV \
