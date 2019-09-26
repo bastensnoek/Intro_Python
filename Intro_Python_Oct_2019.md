@@ -99,9 +99,21 @@ Jupyter notebook File handling: https://drive.google.com/open?id=1LLbKDnDmaghBOE
 Answers File handling:  \
 
 
+## Extra ##
+Extra self study combined topics: https://drive.google.com/open?id=10idqg2ACnZQEFtxOln3TsgPNX23hxRE8 \
+Bolivian squirrel monkey genes: https://drive.google.com/open?id=1CetJML7-EDFbBqqYHP8uCf4dJtqTm5Q7 \
+Dolphin genes: https://drive.google.com/open?id=11LLe5TKQQeMxQO5QlpNfuhy7mdo0RECp \
+Answers:  \
+
+!! Nothing can be claimed based on this, just for practice !!
+Extra, final test of last edition: **To come** \
+Mouse coding genes X Y:  \
+Answers:  \
+
+
 **Day 7:** Extra
-Notebook "the hidden message: \
-Genome File: genome.fa  \
+Notebook "the hidden message: https://drive.google.com/open?id=1B-mmtzj-Pp-NtBit6eAU5YC1NtuXpzMf \
+Genome File: https://drive.google.com/open?id=18qkcEzc8NjzLNeA--FM1UVleg7UdkGWN  \
 Notebook: https://drive.google.com/open?id=1UgQAMXSR2Etcj1Q5IvlRwbBBtd1UDXQW \
 Snail File (you need this for the last parts of the notebook: \
 https://drive.google.com/open?id=1Gvz3Gl6hVPnrvc75-3wTnShl6xRnntxo 
