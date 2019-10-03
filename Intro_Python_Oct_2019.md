@@ -114,6 +114,8 @@ Answers: ... \
 **Day 7:** Extra
 Notebook "the hidden message: https://drive.google.com/open?id=1B-mmtzj-Pp-NtBit6eAU5YC1NtuXpzMf \
 Genome File: https://drive.google.com/open?id=18qkcEzc8NjzLNeA--FM1UVleg7UdkGWN  \
+Answers the hidden message: https://drive.google.com/open?id=1DLJXXz2g-AavjjZtviLkFgUR5-DYnIzi \
+
 Notebook: https://drive.google.com/open?id=1UgQAMXSR2Etcj1Q5IvlRwbBBtd1UDXQW \
 Snail File (you need this for the last parts of the notebook: \
 https://drive.google.com/open?id=1Gvz3Gl6hVPnrvc75-3wTnShl6xRnntxo 
