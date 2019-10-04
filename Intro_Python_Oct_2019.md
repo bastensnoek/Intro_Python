@@ -19,11 +19,11 @@ https://drive.google.com/open?id=10apq_6_SeEQuKFegjZRvUNLhkRdazG0a
 --------------------------------------------------------------------------------------
 # Assignment files 
 
-**Assignment notebook:**  \
+**Assignment notebook:** https://drive.google.com/open?id=1--o2mgxvHOLPQqy8S9wCz_MGq7IrDAWp  \
 **Additional assignment files:** \
-Chicken coding sequences:  \
-DNA_tools.py:  \
-Assignment_data.py: \
+Chicken coding sequences: https://drive.google.com/open?id=1O79NZhrsmspsxd_sLvO9L05SsLWr-twe  \
+DNA_tools.py: https://drive.google.com/open?id=16SsUlH5kno346XRey7MZkBsvyJoA9Ebw \
+Assignment_data.py: https://drive.google.com/open?id=1mnrvE8ys9cZcOUyn03s5UIZynAPjWkOx \
 available Friday at 12:00
 
 --------------------------------------------------------------------------------------
