@@ -21,9 +21,9 @@ https://drive.google.com/open?id=10apq_6_SeEQuKFegjZRvUNLhkRdazG0a
 
 **Assignment notebook:**  \
 **Additional assignment files:** \
-Coding file:  \
-Peptides file:  \
+Chicken coding sequences:  \
 DNA_tools.py:  \
+Assignment_data.py: \
 available Friday at 12:00
 
 --------------------------------------------------------------------------------------
