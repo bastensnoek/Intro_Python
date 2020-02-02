@@ -14,7 +14,7 @@ https://www.anaconda.com/download/
 
 **Installation guide**
 A manual "how to install Python and Jupyter via Anaconda" can be found here:\
-
+https://drive.google.com/open?id=1QeHPc2NFBQeJWztZfMgC-5IalP899vSf
 
 --------------------------------------------------------------------------------------
 # Assignment files 
@@ -27,9 +27,9 @@ available Friday Feb 21st at 12:00
 
 # Python information
 
-**Cheatsheet Python:**  \
-**Cheatsheet Regex:**  \
-**Cheatsheet Matplotlib:**  
+**Cheatsheet Python:** https://drive.google.com/open?id=1N71Ez322zHfIrwD02q3_kHW6O3eteYEI \
+**Cheatsheet Regex:** https://drive.google.com/open?id=1rAj0L93NvnUkC2DvaqMeTSS3Cs82wnEr \
+**Cheatsheet Matplotlib:** https://drive.google.com/open?id=1mrHarxxyZjIxZ5XRGJ-DfvjL1JstMup5  
 
 **Python documentation:** https://docs.python.org/3.7/ \
 **Google:** https://www.google.com/ \
@@ -58,12 +58,12 @@ Lunch breaks are between 12:30 and 13:00.
 ## Practicals and presentations ###
 
 **Day 1:** Jupyter, Variables, Loops\
-Intro:  \
-PDF:  \
-WCPD notebook:  \
-dna_counts.py:  \
-dna_sequences.txt:  \
-Jupyter notebook:  \
+Intro: https://drive.google.com/open?id=1pDJpYubrUoK2WQ_q6q-NyZ95RO8usZDD \
+PDF: https://drive.google.com/open?id=1s5AWyMdFg-ruMG8S13ZZeNQGup44AxrS \
+WCPD notebook: https://drive.google.com/open?id=1lZfX77KJ0x_4_6VB1NmYziDHPsPToQaJ \
+dna_counts.py: https://drive.google.com/open?id=1awVutU891-HYExX2r-H2X4TN8gDzfQYs \
+dna_sequences.txt: https://drive.google.com/open?id=18MEuszYUvGx7uLmP2k1xkebiMdcPRVS7 \
+Jupyter notebook: https://drive.google.com/open?id=16aQ0TrMa0vOzyTtckBjPaCsXOTghxVvm \
 Answers:   
 
 **Day 2:** Lists, Dictionaries \
