@@ -67,38 +67,38 @@ Jupyter notebook: https://drive.google.com/open?id=16aQ0TrMa0vOzyTtckBjPaCsXOTgh
 Answers:   
 
 **Day 2:** Lists, Dictionaries \
-PDF:  \
-Jupyter notebook A:  \
-Jupyter notebook B:  \
+PDF: https://drive.google.com/open?id=122HdQ-ddMNfs9xCref75SJ6HIBYkVd1g \
+Jupyter notebook A: https://drive.google.com/open?id=14q9khC3CFlb3MD1nA0hfpOcQaG-n7XEd \
+Jupyter notebook B: https://drive.google.com/file/d/1JFQselnbKhruYdtQUccnDHxby_2Wio4s/view?usp=sharing \
 Answers A : \
 Answers B : 
 
 **Day 3:** Functions, Modules \
-PDF:  \
-Jupyter notebook:  \
-DNA tools:  \
+PDF: https://drive.google.com/open?id=1U9oNO-UM55RG1Ji5tSY-DKN2quU25PQL \
+Jupyter notebook: https://drive.google.com/open?id=1keQLn10TgAwmpsVmQ-whyao6rUSW5YSQ \
+DNA tools: https://drive.google.com/open?id=1Q5LyB9VBnATQikwZTMPUHL4vFowbbCJd \
 Answers:  \
 Extra Examples:  \
 
 **Day 4:** Plotting, Regular expression \
-PDF Plotting:  \
-PDF Regex:  \
-Needed .bed File:  \
-Needed XY File:  \
-Jupyter notebook Plotting:  \
-Jupyter notebook Regex: \
+PDF Plotting: https://drive.google.com/open?id=1odzVZglD_BpDlPPlxk3ws7vDktX-QmNO \
+PDF Regex: https://drive.google.com/open?id=1JfI7cj4iXeVN6W59XktNol22s8UZ4veG \
+Needed .bed File: https://drive.google.com/open?id=1lImkaG3bjkhUE2SmBq4gcG1gpVwX1yYq \
+Needed XY File: https://drive.google.com/open?id=1HXN5FUuiyjFuK78GrR13cwPQdPy0xqF_ \
+Jupyter notebook Plotting: https://drive.google.com/open?id=1w746xrwIVbzVigw6AWA8QTMbipsmpaUT \
+Jupyter notebook Regex: https://drive.google.com/open?id=1twwsYp320p9_bl-MuKtb5ouWXflClO4C \
 Answers Plotting:  \
 Answers Regex:  \
 
 **Day 6:** File handling \
-PDF:  \
-Jupyter notebook File handling:  \
+PDF: https://drive.google.com/open?id=1YdPhgLor-dKFw8xLjVAHEVfdgboNS8xp \
+Jupyter notebook File handling: https://drive.google.com/open?id=1Q1bB6mg2q3xkOQRcovBLCVRMEdHVCDIa \
 Answers File handling:  \
 
 
 ## Extra ##
-Extra self study combined topics:  \
-Bolivian squirrel monkey genes: 7 \
+Extra self study combined topics: \
+Bolivian squirrel monkey genes:  \
 Dolphin genes:  \
 Answers:  \
 
