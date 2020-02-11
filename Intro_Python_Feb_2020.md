@@ -70,8 +70,8 @@ Answers: https://drive.google.com/open?id=1EFtX8C6M-17oCC7EPn0r2NRMovVAvgyz
 PDF: https://drive.google.com/open?id=122HdQ-ddMNfs9xCref75SJ6HIBYkVd1g \
 Jupyter notebook A: https://drive.google.com/open?id=14q9khC3CFlb3MD1nA0hfpOcQaG-n7XEd \
 Jupyter notebook B: https://drive.google.com/file/d/1JFQselnbKhruYdtQUccnDHxby_2Wio4s/view?usp=sharing \
-Answers A : \
-Answers B : 
+Answers A : https://drive.google.com/open?id=1cjalV6vPzIu-diVtWjqaB0CyS0Yq8C0g \
+Answers B : https://drive.google.com/open?id=1q83_zH6CW0c95btlLb3c1U2gJFT3DJfd
 
 **Day 3:** Functions, Modules \
 PDF: https://drive.google.com/open?id=1U9oNO-UM55RG1Ji5tSY-DKN2quU25PQL \
