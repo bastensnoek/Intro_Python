@@ -87,8 +87,13 @@ Needed .bed File: https://drive.google.com/open?id=1lImkaG3bjkhUE2SmBq4gcG1gpVwX
 Needed XY File: https://drive.google.com/open?id=1EsKcUaiwlZtma5RQq9AWqRkn98sY7x4Z \
 Jupyter notebook Plotting: https://drive.google.com/open?id=1w746xrwIVbzVigw6AWA8QTMbipsmpaUT \
 Jupyter notebook Regex: https://drive.google.com/open?id=1twwsYp320p9_bl-MuKtb5ouWXflClO4C \
-Answers Plotting:  \
-Answers Regex:  \
+Answers Plotting: https://drive.google.com/open?id=1W7fSs_ZS7pf70nU5T6EzlfB_GlosEiEH  \
+Answers Regex: https://drive.google.com/open?id=1Kp3NubViytpw9b3rMosZyshgsAPWeXr3 \
+
+Here are some extra notebooks with examples from last edition, you can run then and try to understand what they do:
+Extra1: https://drive.google.com/open?id=1fyP0-K5a_ifaOr0UNR_XTQIrOcVkgoI2 \
+Extra2:https://drive.google.com/open?id=1UgQAMXSR2Etcj1Q5IvlRwbBBtd1UDXQW \
+Snail File (you need this for the last parts of the notebook: https://drive.google.com/open?id=1Gvz3Gl6hVPnrvc75-3wTnShl6xRnntxo \
 
 **Day 6:** File handling \
 PDF: https://drive.google.com/open?id=1YdPhgLor-dKFw8xLjVAHEVfdgboNS8xp \
@@ -114,7 +119,7 @@ Genome File:  \
 Answers the hidden message:  \
 
 Notebook:  \
-Snail File (you need this for the last parts of the notebook: \
+
 
 
 
