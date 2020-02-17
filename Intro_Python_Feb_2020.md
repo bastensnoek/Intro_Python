@@ -98,13 +98,13 @@ Snail File (you need this for the last parts of the notebook: https://drive.goog
 **Day 6:** File handling \
 PDF: https://drive.google.com/open?id=1YdPhgLor-dKFw8xLjVAHEVfdgboNS8xp \
 Jupyter notebook File handling: https://drive.google.com/open?id=1Q1bB6mg2q3xkOQRcovBLCVRMEdHVCDIa \
-Answers File handling:  \
+Answers File handling: https://drive.google.com/open?id=1iVAClWpbcyTBrTItvKFSg4sjqxho1C-b \
 
 
 ## Extra ##
-Extra self study combined topics: \
-Bolivian squirrel monkey genes:  \
-Dolphin genes:  \
+Extra self study combined topics: https://drive.google.com/open?id=10idqg2ACnZQEFtxOln3TsgPNX23hxRE8 \
+Bolivian squirrel monkey genes: https://drive.google.com/open?id=1CetJML7-EDFbBqqYHP8uCf4dJtqTm5Q7 \
+Dolphin genes: https://drive.google.com/open?id=11LLe5TKQQeMxQO5QlpNfuhy7mdo0RECp \
 Answers:  \
 
 ### !! Nothing can be claimed based on this, just for practice !! ###
