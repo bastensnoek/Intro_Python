@@ -105,7 +105,7 @@ Answers File handling: https://drive.google.com/open?id=1iVAClWpbcyTBrTItvKFSg4s
 Extra self study combined topics: https://drive.google.com/open?id=10idqg2ACnZQEFtxOln3TsgPNX23hxRE8 \
 Bolivian squirrel monkey genes: https://drive.google.com/open?id=1CetJML7-EDFbBqqYHP8uCf4dJtqTm5Q7 \
 Dolphin genes: https://drive.google.com/open?id=11LLe5TKQQeMxQO5QlpNfuhy7mdo0RECp \
-Answers:  \
+Answers: https://drive.google.com/open?id=1-Wmw7utm23l8ZVYmEE23Wc3rOBwmcRIv  \
 
 ### !! Nothing can be claimed based on this, just for practice !! ###
 Extra, final test of last edition: https://drive.google.com/open?id=10WAXYC_qahTZYM2csX-hC895gdDepFjh \
