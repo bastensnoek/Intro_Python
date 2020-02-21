@@ -21,7 +21,7 @@ https://drive.google.com/open?id=1QeHPc2NFBQeJWztZfMgC-5IalP899vSf
 
 **Assignment notebook:**  https://drive.google.com/open?id=1_xqHqugKUqMc2MvlUQ4vAMIg5JOGRjKy \
 **Additional assignment files:** https://drive.google.com/open?id=1kn0xMRcNYBNWcS1XkMlHzVM5dRvyPfJ- \
-https://drive.google.com/open?id=1rj05-fJFktqLN7z-CVzByY6iUfGh0WLb
+https://drive.google.com/open?id=1rj05-fJFktqLN7z-CVzByY6iUfGh0WLb \
 https://drive.google.com/open?id=100Vq5qUVFnE2Qe2higpdwF2dZ2-8blBH
 
 
